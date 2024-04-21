@@ -23,6 +23,7 @@
 ### Questões feitas (clique para ver)
 <details>
   <summary>Capítulo 06 - Exercícios resolvidos</summary>
+</details>
 
 <details>
   <summary>Capítulo 08 - Exercícios resolvidos</summary>
