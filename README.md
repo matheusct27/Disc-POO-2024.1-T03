@@ -5,7 +5,7 @@
 
 # <h3> Trabalho 03 - TODOS os Exercícios Resolvidos  <h3>
 * Cap. 06 (Vetor) 
-* Cap. 05 (Sub-rotina)
+* Cap. 08 (Sub-rotina)
 <br>
 
  ## Turma
